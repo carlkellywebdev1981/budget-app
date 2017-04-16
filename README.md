@@ -3,7 +3,7 @@
 
 Budget App
 
-## About
+## Project
 
 Budget App built from scratch, with income, expenses, values and date. 
 
